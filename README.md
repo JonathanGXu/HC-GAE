@@ -2,5 +2,4 @@
 
 ### Run
 
-    python main.py --use_sage=HCGAE --dataset=Cora --epochs=100# HCGAE
-# HCGAE
+    python main.py --use_sage=HCGAE --dataset=Cora --epochs=100
